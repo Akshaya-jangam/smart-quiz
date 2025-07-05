@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from .models.tfidf_retriever import TFIDFRetriever
 from .models.template_generator import TemplateGenerator
-from .schemas import QuizResponse
+from .schemas import QuizResponse , Question
 
 class QuizGenerator:
     def __init__(self, config):
@@ -57,9 +57,8 @@ class QuizGenerator:
                 and q["difficulty"] == quiz_request.difficulty
             ]
             questions.extend(random.sample(filtered, min(remaining, len(filtered))))
-        
         return QuizResponse(
             quiz_id=f"quiz_{random.randint(1000,9999)}",
             goal=quiz_request.goal,
-            questions=questions[:quiz_request.num_questions]
+             questions=[Question(**q) for q in questions[:quiz_request.num_questions]]
         )
