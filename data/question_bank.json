@@ -1,0 +1,2273 @@
+[
+  {
+    "type": "mcq",
+    "question": "What is 15% of 400?",
+    "options": ["40", "50", "60", "70"],
+    "answer": "60",
+    "difficulty": "beginner",
+    "topic": "Percentage",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 4x + 3 = 19, what is x?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4",
+    "difficulty": "beginner",
+    "topic": "Algebra",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the area of a square with side 5 cm?",
+    "options": ["10 cm²", "20 cm²", "25 cm²", "30 cm²"],
+    "answer": "25 cm²",
+    "difficulty": "beginner",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 3 workers complete a task in 10 days, how many days will 5 workers take?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6",
+    "difficulty": "beginner",
+    "topic": "Time & Work",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the next number in the series: 2, 4, 8, 16, ___?",
+    "options": ["20", "24", "32", "64"],
+    "answer": "32",
+    "difficulty": "beginner",
+    "topic": "Number Series",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "A number when divided by 7 leaves a remainder of 3. What is the remainder when its square is divided by 7?",
+    "options": ["0", "1", "2", "4"],
+    "answer": "2",
+    "difficulty": "intermediate",
+    "topic": "Number Theory",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If log₅25 = x, what is x?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2",
+    "difficulty": "intermediate",
+    "topic": "Logarithms",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The average of 5 numbers is 20. If one number is excluded, the average becomes 18. What is the excluded number?",
+    "options": ["22", "24", "26", "28"],
+    "answer": "28",
+    "difficulty": "intermediate",
+    "topic": "Averages",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If a train covers 360 km in 4 hours, what is its speed in m/s?",
+    "options": ["20", "25", "30", "35"],
+    "answer": "25",
+    "difficulty": "intermediate",
+    "topic": "Speed & Distance",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the HCF of 36 and 48?",
+    "options": ["6", "12", "18", "24"],
+    "answer": "12",
+    "difficulty": "intermediate",
+    "topic": "HCF & LCM",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If the roots of x² - kx + 9 = 0 are equal, what is k?",
+    "options": ["±3", "±6", "±9", "±12"],
+    "answer": "±6",
+    "difficulty": "advanced",
+    "topic": "Quadratic Equations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "How many 3-digit numbers are divisible by 7?",
+    "options": ["128", "129", "130", "131"],
+    "answer": "128",
+    "difficulty": "advanced",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "A mixture contains milk and water in 7:3 ratio. If 10L water is added, the ratio becomes 7:5. What is the initial quantity?",
+    "options": ["30L", "35L", "40L", "45L"],
+    "answer": "35L",
+    "difficulty": "advanced",
+    "topic": "Mixtures",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "In how many ways can 4 boys and 3 girls be seated in a row if girls must sit together?",
+    "options": ["720", "1440", "2880", "5040"],
+    "answer": "1440",
+    "difficulty": "advanced",
+    "topic": "Permutations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If CP of 20 articles = SP of 25 articles, what is loss %?",
+    "options": ["15%", "20%", "25%", "30%"],
+    "answer": "20%",
+    "difficulty": "advanced",
+    "topic": "Profit & Loss",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Synonym of 'ABSTAIN':",
+    "options": ["Indulge", "Refrain", "Consume", "Partake"],
+    "answer": "Refrain",
+    "difficulty": "beginner",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Antonym of 'LETHARGIC':",
+    "options": ["Energetic", "Sluggish", "Tired", "Dull"],
+    "answer": "Energetic",
+    "difficulty": "beginner",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Identify the correct sentence:",
+    "options": [
+      "She don't like apples",
+      "She doesn't likes apples",
+      "She doesn't like apples",
+      "She didn't liked apples"
+    ],
+    "answer": "She doesn't like apples",
+    "difficulty": "beginner",
+    "topic": "Grammar",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Which is the correctly spelled word?",
+    "options": ["Occassion", "Occasion", "Ocassion", "Ocasion"],
+    "answer": "Occasion",
+    "difficulty": "beginner",
+    "topic": "Spelling",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Complete the idiom: 'Birds of a feather ___ together'",
+    "options": ["Fly", "Flock", "Sing", "Run"],
+    "answer": "Flock",
+    "difficulty": "beginner",
+    "topic": "Idioms",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Analogous pair: PHILATELIST : STAMPS :: NUMISMATIST : ___",
+    "options": ["Coins", "Books", "Art", "Plants"],
+    "answer": "Coins",
+    "difficulty": "intermediate",
+    "topic": "Analogies",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The phrase 'Fait accompli' means:",
+    "options": [
+      "A difficult task",
+      "An accomplished fact",
+      "A false promise",
+      "A lucky chance"
+    ],
+    "answer": "An accomplished fact",
+    "difficulty": "intermediate",
+    "topic": "Phrases",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Choose the correct order for the jumbled sentence:\n(P) The storm caused (Q) widespread damage (R) to coastal areas",
+    "options": ["PQR", "PRQ", "QPR", "QRP"],
+    "answer": "PQR",
+    "difficulty": "intermediate",
+    "topic": "Para-jumbles",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Select the word closest in meaning to 'EPHEMERAL':",
+    "options": ["Permanent", "Temporary", "Fragile", "Ancient"],
+    "answer": "Temporary",
+    "difficulty": "intermediate",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Identify the odd word:",
+    "options": ["Novel", "Poem", "Essay", "Sculpture"],
+    "answer": "Sculpture",
+    "difficulty": "intermediate",
+    "topic": "Odd One Out",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The primary purpose of the passage is to: (Hypothetical RC question)",
+    "options": [
+      "Criticize modern technology",
+      "Analyze historical trends",
+      "Advocate for policy change",
+      "Compare cultural practices"
+    ],
+    "answer": "Analyze historical trends",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Which literary device is used in: 'The wind whispered through the trees'?",
+    "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+    "answer": "Personification",
+    "difficulty": "advanced",
+    "topic": "Literary Devices",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Select the most appropriate title for the passage: (Hypothetical RC question)",
+    "options": [
+      "The Future of AI",
+      "Climate Change in 2050",
+      "Medieval Trade Routes",
+      "Modern Political Systems"
+    ],
+    "answer": "Medieval Trade Routes",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The author's tone in the passage can best be described as: (Hypothetical RC question)",
+    "options": ["Sarcastic", "Neutral", "Apologetic", "Nostalgic"],
+    "answer": "Neutral",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Which option correctly summarizes the passage? (Hypothetical RC question)",
+    "options": [
+      "A critique of modern art",
+      "An analysis of economic theories",
+      "A comparison of educational systems",
+      "A discussion of scientific methods"
+    ],
+    "answer": "An analysis of economic theories",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If all roses are flowers and some flowers fade quickly, which statement must be true?",
+    "options": [
+      "All roses fade quickly",
+      "Some roses fade quickly",
+      "No roses fade quickly",
+      "Cannot be determined"
+    ],
+    "answer": "Cannot be determined",
+    "difficulty": "beginner",
+    "topic": "Syllogism",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Find the odd one out:",
+    "options": ["Square", "Cube", "Circle", "Triangle"],
+    "answer": "Cube",
+    "difficulty": "beginner",
+    "topic": "Odd One Out",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If RED is coded as 1854, how is GREEN coded?",
+    "options": ["7955514", "7914555", "7914554", "7915455"],
+    "answer": "7914555",
+    "difficulty": "beginner",
+    "topic": "Coding-Decoding",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+    "options": ["Granddaughter", "Daughter", "Niece", "Sister"],
+    "answer": "Granddaughter",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Find the missing number: 3, 7, 15, 31, ___",
+    "options": ["47", "63", "58", "52"],
+    "answer": "63",
+    "difficulty": "intermediate",
+    "topic": "Number Series",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "In a certain code, 'PERMIT' is written as 'VJXTOA'. How is 'INVITE' coded?",
+    "options": ["OTZOAJ", "OTZOAk", "OTZOAK", "OTZOAI"],
+    "answer": "OTZOAK",
+    "difficulty": "intermediate",
+    "topic": "Coding-Decoding",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 'A + B' means A is the brother of B, 'A × B' means A is the wife of B, then what does 'P × Q + R' mean?",
+    "options": [
+      "P is Q's sister",
+      "P is Q's mother",
+      "P is R's sister-in-law",
+      "P is R's mother-in-law"
+    ],
+    "answer": "P is R's mother-in-law",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Five friends are sitting in a row. A is to the left of B but to the right of C. D is to the right of B but to the left of E. Who is in the middle?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "B",
+    "difficulty": "advanced",
+    "topic": "Seating Arrangement",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 3 people can paint 3 walls in 3 days, how many days will it take for 6 people to paint 12 walls?",
+    "options": ["3", "6", "9", "12"],
+    "answer": "6",
+    "difficulty": "advanced",
+    "topic": "Time & Work",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "In a group of 50 people, 25 speak Hindi, 20 speak English, and 15 speak both. How many speak neither?",
+    "options": ["5", "10", "15", "20"],
+    "answer": "20",
+    "difficulty": "advanced",
+    "topic": "Set Theory",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The following table shows sales (in ₹'000):\n| Year | Sales |\n|------|-------|\n| 2021 | 100   |\n| 2022 | 120   |\nWhat is the growth rate?",
+    "options": ["15%", "20%", "25%", "30%"],
+    "answer": "20%",
+    "difficulty": "intermediate",
+    "topic": "Tables",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If a pie chart shows 45% for sector A, what is the angle of this sector?",
+    "options": ["135°", "145°", "155°", "162°"],
+    "answer": "162°",
+    "difficulty": "intermediate",
+    "topic": "Pie Charts",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The following bar graph shows monthly sales (Jan: 50 units, Feb: 70 units, Mar: 60 units). What is the average monthly sales?",
+    "options": ["50", "55", "60", "65"],
+    "answer": "60",
+    "difficulty": "intermediate",
+    "topic": "Bar Graphs",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If Company X's 2022 revenue was ₹800Cr with 25% profit margin, and 2023 revenue increased by 40% with margin dropping to 20%, what is the absolute profit change?",
+    "options": ["₹16Cr increase", "₹16Cr decrease", "₹24Cr increase", "₹24Cr decrease"],
+    "answer": "₹16Cr increase",
+    "difficulty": "advanced",
+    "topic": "Profit Analysis",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The following line graph shows stock prices over 5 days (Day1:100, Day2:120, Day3:90, Day4:110, Day5:130). What is the highest single-day percentage increase?",
+    "options": ["20%", "25%", "30%", "35%"],
+    "answer": "20%",
+    "difficulty": "advanced",
+    "topic": "Line Graphs",
+    "goal": "CAT"
+  },
+{
+    "type": "mcq",
+    "question": "What is 25% of 200?",
+    "options": ["40", "50", "60", "70"],
+    "answer": "50",
+    "difficulty": "beginner",
+    "topic": "Percentage",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If 5x - 3 = 22, what is x?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5",
+    "difficulty": "beginner",
+    "topic": "Algebra",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "What is the perimeter of a rectangle with length 8cm and width 5cm?",
+    "options": ["13cm", "26cm", "40cm", "80cm"],
+    "answer": "26cm",
+    "difficulty": "beginner",
+    "topic": "Geometry",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If 4 workers build a wall in 9 days, how many days will 6 workers take?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6",
+    "difficulty": "beginner",
+    "topic": "Time & Work",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "What is the next number in the series: 3, 9, 27, ___?",
+    "options": ["36", "54", "81", "90"],
+    "answer": "81",
+    "difficulty": "beginner",
+    "topic": "Number Series",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "A number when divided by 9 leaves a remainder of 4. What is the remainder when its square is divided by 9?",
+    "options": ["0", "1", "4", "7"],
+    "answer": "7",
+    "difficulty": "intermediate",
+    "topic": "Number Theory",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If log₃27 = x, what is x?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3",
+    "difficulty": "intermediate",
+    "topic": "Logarithms",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "The average of 6 numbers is 25. If one number is excluded, the average becomes 20. What is the excluded number?",
+    "options": ["30", "40", "45", "50"],
+    "answer": "50",
+    "difficulty": "intermediate",
+    "topic": "Averages",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If a car travels 420 km in 7 hours, what is its speed in m/s?",
+    "options": ["15", "16.67", "18", "20"],
+    "answer": "16.67",
+    "difficulty": "intermediate",
+    "topic": "Speed & Distance",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "What is the LCM of 24 and 36?",
+    "options": ["48", "72", "96", "108"],
+    "answer": "72",
+    "difficulty": "intermediate",
+    "topic": "HCF & LCM",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If the roots of x² - 8x + k = 0 are equal, what is k?",
+    "options": ["8", "12", "16", "20"],
+    "answer": "16",
+    "difficulty": "advanced",
+    "topic": "Quadratic Equations",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "How many 2-digit numbers are divisible by 6?",
+    "options": ["12", "15", "18", "21"],
+    "answer": "15",
+    "difficulty": "advanced",
+    "topic": "Number System",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "A mixture contains milk and water in 5:2 ratio. If 14L water is added, the ratio becomes 5:4. What is the initial quantity?",
+    "options": ["28L", "35L", "42L", "49L"],
+    "answer": "35L",
+    "difficulty": "advanced",
+    "topic": "Mixtures",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "In how many ways can 5 books be arranged if 2 particular books must always be together?",
+    "options": ["24", "48", "72", "120"],
+    "answer": "48",
+    "difficulty": "advanced",
+    "topic": "Permutations",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If CP of 15 articles = SP of 20 articles, what is loss %?",
+    "options": ["15%", "20%", "25%", "30%"],
+    "answer": "25%",
+    "difficulty": "advanced",
+    "topic": "Profit & Loss",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Synonym of 'DILIGENT':",
+    "options": ["Lazy", "Hardworking", "Careless", "Slow"],
+    "answer": "Hardworking",
+    "difficulty": "beginner",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Antonym of 'VIVACIOUS':",
+    "options": ["Lively", "Energetic", "Dull", "Cheerful"],
+    "answer": "Dull",
+    "difficulty": "beginner",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Identify the correct sentence:",
+    "options": [
+        "They is going to market",
+        "They are going to market",
+        "They am going to market",
+        "They be going to market"
+    ],
+    "answer": "They are going to market",
+    "difficulty": "beginner",
+    "topic": "Grammar",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Which is the correctly spelled word?",
+    "options": ["Accomodate", "Acommodate", "Acomodate", "Accommodate"],
+    "answer": "Accommodate",
+    "difficulty": "beginner",
+    "topic": "Spelling",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Complete the idiom: 'A stitch in time saves ___'",
+    "options": ["Money", "Nine", "Time", "Trouble"],
+    "answer": "Nine",
+    "difficulty": "beginner",
+    "topic": "Idioms",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Analogous pair: OPHTHALMOLOGIST : EYES :: CARDIOLOGIST : ___",
+    "options": ["Brain", "Heart", "Lungs", "Kidneys"],
+    "answer": "Heart",
+    "difficulty": "intermediate",
+    "topic": "Analogies",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "The phrase 'Bona fide' means:",
+    "options": [
+        "In good faith",
+        "False promise",
+        "Legal document",
+        "Financial gain"
+    ],
+    "answer": "In good faith",
+    "difficulty": "intermediate",
+    "topic": "Phrases",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Choose the correct order for the jumbled sentence:\n(P) The discovery of penicillin (Q) revolutionized modern medicine (R) by Alexander Fleming",
+    "options": ["PQR", "PRQ", "QPR", "QRP"],
+    "answer": "PRQ",
+    "difficulty": "intermediate",
+    "topic": "Para-jumbles",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Select the word closest in meaning to 'MUNDANE':",
+    "options": ["Exciting", "Ordinary", "Complex", "Mystical"],
+    "answer": "Ordinary",
+    "difficulty": "intermediate",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Identify the odd word:",
+    "options": ["Violin", "Flute", "Piano", "Sculpture"],
+    "answer": "Sculpture",
+    "difficulty": "intermediate",
+    "topic": "Odd One Out",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "The primary purpose of the passage is to: (Hypothetical RC question)",
+    "options": [
+        "Criticize government policies",
+        "Analyze economic impacts",
+        "Promote a new technology",
+        "Compare historical events"
+    ],
+    "answer": "Analyze economic impacts",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Which literary device is used in: 'The stars danced playfully in the moonlit sky'?",
+    "options": ["Metaphor", "Simile", "Personification", "Alliteration"],
+    "answer": "Personification",
+    "difficulty": "advanced",
+    "topic": "Literary Devices",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Select the most appropriate title for the passage: (Hypothetical RC question)",
+    "options": [
+        "The Future of Space Travel",
+        "Renaissance Art Techniques",
+        "Digital Marketing Strategies",
+        "Medieval European Politics"
+    ],
+    "answer": "Renaissance Art Techniques",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "The author's tone in the passage can best be described as: (Hypothetical RC question)",
+    "options": ["Sarcastic", "Objective", "Nostalgic", "Humorous"],
+    "answer": "Objective",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Which option correctly summarizes the passage? (Hypothetical RC question)",
+    "options": [
+        "A debate about climate change",
+        "An analysis of literary trends",
+        "A discussion of philosophical concepts",
+        "A report on medical advancements"
+    ],
+    "answer": "An analysis of literary trends",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If all dogs are animals and some animals are pets, which statement must be true?",
+    "options": [
+        "All dogs are pets",
+        "Some dogs are pets",
+        "No dogs are pets",
+        "Cannot be determined"
+    ],
+    "answer": "Cannot be determined",
+    "difficulty": "beginner",
+    "topic": "Syllogism",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Find the odd one out:",
+    "options": ["Square", "Circle", "Triangle", "Cube"],
+    "answer": "Cube",
+    "difficulty": "beginner",
+    "topic": "Odd One Out",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If CAT is coded as 3120, how is DOG coded?",
+    "options": ["4157", "4158", "4159", "4160"],
+    "answer": "4157",
+    "difficulty": "beginner",
+    "topic": "Coding-Decoding",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "X is Y's brother. Y is Z's father. How is X related to Z?",
+    "options": ["Uncle", "Father", "Grandfather", "Brother"],
+    "answer": "Uncle",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Find the missing number: 2, 5, 11, 23, ___",
+    "options": ["41", "43", "47", "49"],
+    "answer": "47",
+    "difficulty": "intermediate",
+    "topic": "Number Series",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "In a certain code, 'GARDEN' is written as 'SGTRBH'. How is 'FLOWER' coded?",
+    "options": ["GLPXFS", "GLPXES", "GLPXER", "GLPYFS"],
+    "answer": "GLPXFS",
+    "difficulty": "intermediate",
+    "topic": "Coding-Decoding",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If 'A * B' means A is the father of B, 'A + B' means A is the sister of B, then what does 'P × Q + R' mean?",
+    "options": [
+        "P is Q's brother",
+        "P is R's father",
+        "P is R's uncle",
+        "P is Q's husband"
+    ],
+    "answer": "P is R's uncle",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "Six friends are sitting in a circle. A is between B and C. D is opposite E who is to the left of F. If B is opposite F, who is sitting to A's right?",
+    "options": ["B", "C", "D", "E"],
+    "answer": "D",
+    "difficulty": "advanced",
+    "topic": "Seating Arrangement",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If 5 machines can produce 5 widgets in 5 minutes, how many minutes will it take for 100 machines to produce 100 widgets?",
+    "options": ["1", "5", "10", "100"],
+    "answer": "5",
+    "difficulty": "advanced",
+    "topic": "Time & Work",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "In a group of 60 people, 30 speak French, 25 speak German, and 20 speak both. How many speak neither?",
+    "options": ["15", "20", "25", "30"],
+    "answer": "25",
+    "difficulty": "advanced",
+    "topic": "Set Theory",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "The following table shows revenue (in ₹Cr):\n| Year | Revenue |\n|------|---------|\n| 2020 | 150     |\n| 2021 | 180     |\nWhat is the percentage growth?",
+    "options": ["15%", "20%", "25%", "30%"],
+    "answer": "20%",
+    "difficulty": "intermediate",
+    "topic": "Tables",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "If a pie chart shows 30% for sector X, what is the angle of this sector?",
+    "options": ["90°", "108°", "120°", "135°"],
+    "answer": "108°",
+    "difficulty": "intermediate",
+    "topic": "Pie Charts",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "The following bar graph shows monthly sales (Jan: 100, Feb: 120, Mar: 150). What is the total quarterly sales?",
+    "options": ["320", "350", "370", "400"],
+    "answer": "370",
+    "difficulty": "intermediate",
+    "topic": "Bar Graphs",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "A company's revenue grew from ₹200Cr to ₹250Cr while expenses grew from ₹120Cr to ₹180Cr. What happened to profit margin?",
+    "options": [
+        "Increased by 5%",
+        "Decreased by 5%", 
+        "Remained same",
+        "Cannot determine"
+    ],
+    "answer": "Decreased by 5%",
+    "difficulty": "advanced",
+    "topic": "Financial Analysis",
+    "goal": "CAT"
+},
+{
+    "type": "mcq", 
+    "question": "The stacked bar graph shows 3 products (A,B,C) with sales: \nJan: A=40, B=30, C=30\nFeb: A=50, B=40, C=10\nWhat was Product B's percentage contribution in February?",
+    "options": ["30%", "35%", "40%", "45%"],
+    "answer": "40%",
+    "difficulty": "advanced",
+    "topic": "Stacked Bars",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "The scatter plot shows advertising spend (X) vs sales (Y) with correlation coefficient 0.85. This implies:",
+    "options": [
+        "85% of sales variation is explained by ad spend",
+        "Strong positive relationship",
+        "No meaningful relationship",
+        "Negative correlation"
+    ],
+    "answer": "Strong positive relationship",
+    "difficulty": "advanced",
+    "topic": "Statistics",
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "The waterfall chart shows:\nStarting Cash: ₹50L\n+Operations: ₹20L\n-Investments: ₹30L\n+Financing: ₹40L\nEnding Cash = ?",
+    "options": ["₹60L", "₹70L", "₹80L", "₹90L"],
+    "answer": "₹80L",
+    "difficulty": "advanced",
+    "topic": "Waterfall Charts", 
+    "goal": "CAT"
+},
+{
+    "type": "mcq",
+    "question": "The histogram of exam scores shows:\n40-50: 10 students\n50-60: 20 students\n60-70: 30 students\nWhat percentage scored ≥55 if evenly distributed within bins?",
+    "options": ["58%", "63%", "68%", "72%"],
+    "answer": "63%",
+    "difficulty": "advanced",
+    "topic": "Histograms",
+    "goal": "CAT"
+},
+  {
+    "type": "mcq",
+    "question": "What is 30% of 500?",
+    "options": ["120", "150", "180", "200"],
+    "answer": "150",
+    "difficulty": "beginner",
+    "topic": "Percentage",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 7x - 4 = 24, what is x?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4",
+    "difficulty": "beginner",
+    "topic": "Algebra",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the perimeter of a square with side 6 cm?",
+    "options": ["12 cm", "18 cm", "24 cm", "36 cm"],
+    "answer": "24 cm",
+    "difficulty": "beginner",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 6 workers complete a job in 8 days, how many days will 12 workers take?",
+    "options": ["2", "3", "4", "6"],
+    "answer": "4",
+    "difficulty": "beginner",
+    "topic": "Time & Work",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the next number in the series: 5, 10, 20, 40, ___?",
+    "options": ["60", "70", "80", "90"],
+    "answer": "80",
+    "difficulty": "beginner",
+    "topic": "Number Series",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "A number when divided by 8 leaves a remainder of 5. What is the remainder when its cube is divided by 8?",
+    "options": ["1", "3", "5", "7"],
+    "answer": "5",
+    "difficulty": "intermediate",
+    "topic": "Number Theory",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If log₄64 = x, what is x?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "difficulty": "intermediate",
+    "topic": "Logarithms",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The average of 7 numbers is 24. If one number is removed, the average becomes 20. What was the removed number?",
+    "options": ["28", "32", "36", "44"],
+    "answer": "44",
+    "difficulty": "intermediate",
+    "topic": "Averages",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If a train travels 450 km in 5 hours, what is its speed in m/s?",
+    "options": ["20", "25", "30", "35"],
+    "answer": "25",
+    "difficulty": "intermediate",
+    "topic": "Speed & Distance",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the HCF of 42 and 56?",
+    "options": ["7", "14", "21", "28"],
+    "answer": "14",
+    "difficulty": "intermediate",
+    "topic": "HCF & LCM",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If the roots of x² - 12x + k = 0 are equal, what is k?",
+    "options": ["24", "36", "48", "64"],
+    "answer": "36",
+    "difficulty": "advanced",
+    "topic": "Quadratic Equations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "How many 3-digit numbers are divisible by 11?",
+    "options": ["80", "81", "82", "83"],
+    "answer": "81",
+    "difficulty": "advanced",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "A mixture contains alcohol and water in 8:3 ratio. If 15L water is added, the ratio becomes 8:5. What is the initial quantity?",
+    "options": ["44L", "55L", "66L", "77L"],
+    "answer": "55L",
+    "difficulty": "advanced",
+    "topic": "Mixtures",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "In how many ways can 6 people sit around a circular table?",
+    "options": ["60", "120", "720", "5040"],
+    "answer": "120",
+    "difficulty": "advanced",
+    "topic": "Permutations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If CP of 12 articles = SP of 15 articles, what is loss %?",
+    "options": ["15%", "20%", "25%", "30%"],
+    "answer": "20%",
+    "difficulty": "advanced",
+    "topic": "Profit & Loss",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Synonym of 'PRUDENT':",
+    "options": ["Reckless", "Wise", "Careless", "Foolish"],
+    "answer": "Wise",
+    "difficulty": "beginner",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Antonym of 'MUNDANE':",
+    "options": ["Ordinary", "Exciting", "Boring", "Dull"],
+    "answer": "Exciting",
+    "difficulty": "beginner",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Identify the correct sentence:",
+    "options": [
+      "He don't know the answer",
+      "He doesn't knows the answer",
+      "He doesn't know the answer",
+      "He didn't knew the answer"
+    ],
+    "answer": "He doesn't know the answer",
+    "difficulty": "beginner",
+    "topic": "Grammar",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Which is the correctly spelled word?",
+    "options": ["Embarrass", "Embarass", "Embaras", "Embarras"],
+    "answer": "Embarrass",
+    "difficulty": "beginner",
+    "topic": "Spelling",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Complete the idiom: 'Don't count your chickens before they ___'",
+    "options": ["Hatch", "Fly", "Grow", "Sing"],
+    "answer": "Hatch",
+    "difficulty": "beginner",
+    "topic": "Idioms",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Analogous pair: PHILANTHROPIST : CHARITY :: ASTRONOMER : ___",
+    "options": ["Stars", "Medicine", "Law", "Art"],
+    "answer": "Stars",
+    "difficulty": "intermediate",
+    "topic": "Analogies",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The phrase 'Carte blanche' means:",
+    "options": ["Blank card", "Complete freedom", "Financial loss", "Strict rules"],
+    "answer": "Complete freedom",
+    "difficulty": "intermediate",
+    "topic": "Phrases",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Choose the correct order for the jumbled sentence:\n(P) The invention of the wheel (Q) revolutionized transportation (R) in ancient times",
+    "options": ["PQR", "PRQ", "QPR", "QRP"],
+    "answer": "PQR",
+    "difficulty": "intermediate",
+    "topic": "Para-jumbles",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Select the word closest in meaning to 'LUGUBRIOUS':",
+    "options": ["Cheerful", "Mournful", "Energetic", "Complex"],
+    "answer": "Mournful",
+    "difficulty": "intermediate",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Identify the odd word:",
+    "options": ["Violin", "Trumpet", "Flute", "Novel"],
+    "answer": "Novel",
+    "difficulty": "intermediate",
+    "topic": "Odd One Out",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The primary purpose of the passage is to: (Hypothetical RC question)",
+    "options": [
+      "Criticize modern education",
+      "Analyze technological advancements",
+      "Promote environmental awareness",
+      "Discuss medieval architecture"
+    ],
+    "answer": "Analyze technological advancements",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Which literary device is used in: 'Time is a thief'?",
+    "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+    "answer": "Metaphor",
+    "difficulty": "advanced",
+    "topic": "Literary Devices",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Select the most appropriate title for the passage: (Hypothetical RC question)",
+    "options": [
+      "The Future of Quantum Computing",
+      "Renaissance Art Movements",
+      "Modern Healthcare Challenges",
+      "Ancient Greek Philosophy"
+    ],
+    "answer": "The Future of Quantum Computing",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The author's tone in the passage can best be described as: (Hypothetical RC question)",
+    "options": ["Sarcastic", "Optimistic", "Neutral", "Pessimistic"],
+    "answer": "Neutral",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Which option correctly summarizes the passage? (Hypothetical RC question)",
+    "options": [
+      "A critique of social media",
+      "An analysis of economic policies",
+      "A comparison of scientific methods",
+      "A discussion of literary trends"
+    ],
+    "answer": "An analysis of economic policies",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If all cats are animals and some animals are pets, which statement must be true?",
+    "options": [
+      "All cats are pets",
+      "Some cats are pets",
+      "No cats are pets",
+      "Cannot be determined"
+    ],
+    "answer": "Cannot be determined",
+    "difficulty": "beginner",
+    "topic": "Syllogism",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Find the odd one out:",
+    "options": ["Square", "Pentagon", "Hexagon", "Sphere"],
+    "answer": "Sphere",
+    "difficulty": "beginner",
+    "topic": "Odd One Out",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If DOG is coded as 4157, how is CAT coded?",
+    "options": ["3120", "3121", "3122", "3123"],
+    "answer": "3120",
+    "difficulty": "beginner",
+    "topic": "Coding-Decoding",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "A is B's father. B is C's sister. How is A related to C?",
+    "options": ["Father", "Uncle", "Grandfather", "Brother"],
+    "answer": "Father",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Find the missing number: 2, 6, 12, 20, ___",
+    "options": ["24", "28", "30", "32"],
+    "answer": "30",
+    "difficulty": "intermediate",
+    "topic": "Number Series",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "In a certain code, 'TIGER' is written as 'QDFBO'. How is 'HORSE' coded?",
+    "options": ["ELMOB", "ELMPB", "ELMOC", "ELMPC"],
+    "answer": "ELMOB",
+    "difficulty": "intermediate",
+    "topic": "Coding-Decoding",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 'A + B' means A is the mother of B, 'A - B' means A is the brother of B, then what does 'P + Q - R' mean?",
+    "options": [
+      "P is R's mother",
+      "P is R's aunt",
+      "P is R's sister",
+      "P is R's grandmother"
+    ],
+    "answer": "P is R's aunt",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Five friends are sitting in a row. A is to the left of B but to the right of C. D is to the right of B but to the left of E. Who is at the far right?",
+    "options": ["A", "B", "D", "E"],
+    "answer": "E",
+    "difficulty": "advanced",
+    "topic": "Seating Arrangement",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 2 machines can produce 2 bottles in 2 minutes, how many machines are needed to produce 50 bottles in 50 minutes?",
+    "options": ["2", "5", "10", "50"],
+    "answer": "2",
+    "difficulty": "advanced",
+    "topic": "Time & Work",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "In a group of 70 people, 30 speak French, 35 speak German, and 15 speak both. How many speak neither?",
+    "options": ["10", "15", "20", "25"],
+    "answer": "20",
+    "difficulty": "advanced",
+    "topic": "Set Theory",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The following table shows revenue (in ₹Cr):\n| Year | Revenue |\n|------|---------|\n| 2020 | 200     |\n| 2021 | 250     |\nWhat is the percentage growth?",
+    "options": ["20%", "25%", "30%", "35%"],
+    "answer": "25%",
+    "difficulty": "intermediate",
+    "topic": "Tables",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If a pie chart shows 20% for sector A, what is the angle of this sector?",
+    "options": ["36°", "54°", "72°", "90°"],
+    "answer": "72°",
+    "difficulty": "intermediate",
+    "topic": "Pie Charts",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The following bar graph shows monthly sales (Jan: 50, Feb: 80, Mar: 70). What is the average monthly sales?",
+    "options": ["60", "65", "66.67", "70"],
+    "answer": "66.67",
+    "difficulty": "intermediate",
+    "topic": "Bar Graphs",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If Company X's profit margin dropped from 30% to 25% while revenue increased from ₹500Cr to ₹600Cr, what happened to absolute profit?",
+    "options": [
+      "Increased by ₹5Cr",
+      "Decreased by ₹5Cr",
+      "Remained same",
+      "Cannot determine"
+    ],
+    "answer": "Increased by ₹5Cr",
+    "difficulty": "advanced",
+    "topic": "Profit Analysis",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The line graph shows stock prices over 5 days (Day1:50, Day2:60, Day3:45, Day4:55, Day5:70). What is the highest single-day percentage change?",
+    "options": ["20%", "25%", "33.33%", "50%"],
+    "answer": "33.33%",
+    "difficulty": "advanced",
+    "topic": "Line Graphs",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is 40% of 250?",
+    "options": ["80", "100", "120", "150"],
+    "answer": "100",
+    "difficulty": "beginner",
+    "topic": "Percentage",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 3x + 7 = 22, what is x?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "difficulty": "beginner",
+    "topic": "Algebra",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the area of a rectangle with length 12 cm and width 5 cm?",
+    "options": ["30 cm²", "50 cm²", "60 cm²", "72 cm²"],
+    "answer": "60 cm²",
+    "difficulty": "beginner",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 5 workers can paint a house in 10 days, how many days will 10 workers take?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5",
+    "difficulty": "beginner",
+    "topic": "Time & Work",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the next number in the series: 3, 6, 12, 24, ___?",
+    "options": ["36", "42", "48", "56"],
+    "answer": "48",
+    "difficulty": "beginner",
+    "topic": "Number Series",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "A number when divided by 9 leaves a remainder of 4. What is the remainder when its square is divided by 9?",
+    "options": ["1", "4", "7", "8"],
+    "answer": "7",
+    "difficulty": "intermediate",
+    "topic": "Number Theory",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If log₅125 = x, what is x?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "difficulty": "intermediate",
+    "topic": "Logarithms",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The average of 8 numbers is 30. If one number is excluded, the average becomes 28. What was the excluded number?",
+    "options": ["40", "42", "44", "46"],
+    "answer": "44",
+    "difficulty": "intermediate",
+    "topic": "Averages",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If a car travels 300 km in 4 hours, what is its speed in m/s?",
+    "options": ["18.75", "20", "21.5", "25"],
+    "answer": "20.83",
+    "difficulty": "intermediate",
+    "topic": "Speed & Distance",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "What is the LCM of 18 and 24?",
+    "options": ["36", "48", "72", "96"],
+    "answer": "72",
+    "difficulty": "intermediate",
+    "topic": "HCF & LCM",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If the roots of x² - 10x + k = 0 are equal, what is k?",
+    "options": ["20", "25", "30", "36"],
+    "answer": "25",
+    "difficulty": "advanced",
+    "topic": "Quadratic Equations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "How many 2-digit numbers are divisible by 7?",
+    "options": ["12", "13", "14", "15"],
+    "answer": "13",
+    "difficulty": "advanced",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "A mixture contains milk and water in 5:1 ratio. If 10L water is added, the ratio becomes 5:2. What is the initial quantity?",
+    "options": ["30L", "35L", "40L", "45L"],
+    "answer": "35L",
+    "difficulty": "advanced",
+    "topic": "Mixtures",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "In how many ways can 5 books and 4 pens be arranged if all pens must be together?",
+    "options": ["1440", "2880", "4320", "8640"],
+    "answer": "17280",
+    "difficulty": "advanced",
+    "topic": "Permutations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If CP of 10 articles = SP of 12 articles, what is loss %?",
+    "options": ["10%", "15%", "16.67%", "20%"],
+    "answer": "16.67%",
+    "difficulty": "advanced",
+    "topic": "Profit & Loss",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Synonym of 'MAGNANIMOUS':",
+    "options": ["Selfish", "Generous", "Stingy", "Cruel"],
+    "answer": "Generous",
+    "difficulty": "beginner",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Antonym of 'EPHEMERAL':",
+    "options": ["Temporary", "Permanent", "Fleeting", "Brief"],
+    "answer": "Permanent",
+    "difficulty": "beginner",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Identify the correct sentence:",
+    "options": [
+      "She have completed her work",
+      "She has completed her work",
+      "She has complete her work",
+      "She had completes her work"
+    ],
+    "answer": "She has completed her work",
+    "difficulty": "beginner",
+    "topic": "Grammar",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Which is the correctly spelled word?",
+    "options": ["Occurrence", "Occurence", "Ocurrence", "Ocurence"],
+    "answer": "Occurrence",
+    "difficulty": "beginner",
+    "topic": "Spelling",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Complete the idiom: 'The early bird catches the ___'",
+    "options": ["Worm", "Fish", "Prize", "Train"],
+    "answer": "Worm",
+    "difficulty": "beginner",
+    "topic": "Idioms",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Analogous pair: CARPENTER : WOOD :: MASON : ___",
+    "options": ["Stone", "Metal", "Paint", "Design"],
+    "answer": "Stone",
+    "difficulty": "intermediate",
+    "topic": "Analogies",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The phrase 'Modus operandi' means:",
+    "options": [
+      "Method of operation",
+      "Final decision",
+      "Legal document",
+      "Emergency plan"
+    ],
+    "answer": "Method of operation",
+    "difficulty": "intermediate",
+    "topic": "Phrases",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Choose the correct order for the jumbled sentence:\n(P) The discovery of electricity (Q) transformed human civilization (R) in the 19th century",
+    "options": ["PQR", "PRQ", "QPR", "QRP"],
+    "answer": "PQR",
+    "difficulty": "intermediate",
+    "topic": "Para-jumbles",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Select the word closest in meaning to 'EBULLIENT':",
+    "options": ["Gloomy", "Enthusiastic", "Angry", "Confused"],
+    "answer": "Enthusiastic",
+    "difficulty": "intermediate",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Identify the odd word:",
+    "options": ["Sapphire", "Emerald", "Ruby", "Granite"],
+    "answer": "Granite",
+    "difficulty": "intermediate",
+    "topic": "Odd One Out",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The primary purpose of the passage is to: (Hypothetical RC question)",
+    "options": [
+      "Describe historical events",
+      "Analyze psychological theories",
+      "Promote a political agenda",
+      "Criticize modern art"
+    ],
+    "answer": "Analyze psychological theories",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Which literary device is used in: 'The world is a stage'?",
+    "options": ["Simile", "Metaphor", "Alliteration", "Hyperbole"],
+    "answer": "Metaphor",
+    "difficulty": "advanced",
+    "topic": "Literary Devices",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Select the most appropriate title for the passage: (Hypothetical RC question)",
+    "options": [
+      "The Future of Renewable Energy",
+      "Ancient Roman Architecture",
+      "Modern Marketing Strategies",
+      "Medieval European Literature"
+    ],
+    "answer": "The Future of Renewable Energy",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The author's tone in the passage can best be described as: (Hypothetical RC question)",
+    "options": ["Sarcastic", "Informative", "Nostalgic", "Humorous"],
+    "answer": "Informative",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Which option correctly summarizes the passage? (Hypothetical RC question)",
+    "options": [
+      "A debate about climate change",
+      "An analysis of economic trends",
+      "A discussion of philosophical ideas",
+      "A report on medical breakthroughs"
+    ],
+    "answer": "An analysis of economic trends",
+    "difficulty": "advanced",
+    "topic": "Reading Comprehension",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If all birds can fly and penguins are birds, which statement must be true?",
+    "options": [
+      "All penguins can fly",
+      "Some penguins can fly",
+      "No penguins can fly",
+      "Cannot be determined"
+    ],
+    "answer": "Cannot be determined",
+    "difficulty": "beginner",
+    "topic": "Syllogism",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Find the odd one out:",
+    "options": ["Cube", "Cuboid", "Sphere", "Pyramid"],
+    "answer": "Sphere",
+    "difficulty": "beginner",
+    "topic": "Odd One Out",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If APPLE is coded as 125, how is ORANGE coded?",
+    "options": ["150", "175", "200", "225"],
+    "answer": "150",
+    "difficulty": "beginner",
+    "topic": "Coding-Decoding",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "X is Y's son. Y is Z's wife. How is X related to Z?",
+    "options": ["Son", "Brother", "Father", "Nephew"],
+    "answer": "Son",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Find the missing number: 1, 4, 9, 16, ___",
+    "options": ["20", "24", "25", "30"],
+    "answer": "25",
+    "difficulty": "intermediate",
+    "topic": "Number Series",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "In a certain code, 'BANK' is written as 'CBOJ'. How is 'LOAN' coded?",
+    "options": ["MPBO", "MPBM", "MPBN", "MPBP"],
+    "answer": "MPBO",
+    "difficulty": "intermediate",
+    "topic": "Coding-Decoding",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 'A × B' means A is the father of B, 'A ÷ B' means A is the sister of B, then what does 'P × Q ÷ R' mean?",
+    "options": [
+      "P is R's father",
+      "P is R's uncle",
+      "P is R's grandfather",
+      "P is R's brother"
+    ],
+    "answer": "P is R's uncle",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "Six friends are sitting in a circle. A is between B and C. D is opposite E who is to the left of F. If B is opposite F, who is sitting to D's right?",
+    "options": ["A", "B", "C", "E"],
+    "answer": "C",
+    "difficulty": "advanced",
+    "topic": "Seating Arrangement",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If 4 machines can produce 4 widgets in 4 minutes, how many minutes will it take for 100 machines to produce 100 widgets?",
+    "options": ["1", "4", "25", "100"],
+    "answer": "4",
+    "difficulty": "advanced",
+    "topic": "Time & Work",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "In a group of 80 people, 40 speak Hindi, 35 speak Bengali, and 20 speak both. How many speak neither?",
+    "options": ["15", "20", "25", "30"],
+    "answer": "25",
+    "difficulty": "advanced",
+    "topic": "Set Theory",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The following table shows profit (in ₹Lakhs):\n| Year | Profit |\n|------|--------|\n| 2019 | 120    |\n| 2020 | 150    |\nWhat is the percentage growth?",
+    "options": ["20%", "25%", "30%", "35%"],
+    "answer": "25%",
+    "difficulty": "intermediate",
+    "topic": "Tables",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If a pie chart shows 15% for sector B, what is the angle of this sector?",
+    "options": ["36°", "45°", "54°", "60°"],
+    "answer": "54°",
+    "difficulty": "intermediate",
+    "topic": "Pie Charts",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The following bar graph shows quarterly sales (Q1:100, Q2:120, Q3:150, Q4:180). What is the total annual sales?",
+    "options": ["500", "520", "540", "550"],
+    "answer": "550",
+    "difficulty": "intermediate",
+    "topic": "Bar Graphs",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "If Company Y's expenses increased from ₹300Cr to ₹400Cr while revenue remained at ₹500Cr, what happened to profit margin?",
+    "options": [
+      "Decreased by 20%",
+      "Increased by 20%",
+      "Remained same",
+      "Cannot determine"
+    ],
+    "answer": "Decreased by 20%",
+    "difficulty": "advanced",
+    "topic": "Financial Analysis",
+    "goal": "CAT"
+  },
+  {
+    "type": "mcq",
+    "question": "The scatter plot shows study hours (X) vs test scores (Y) with correlation coefficient 0.92. This implies:",
+    "options": [
+      "No relationship",
+      "Weak positive relationship",
+      "Strong positive relationship",
+      "Negative relationship"
+    ],
+    "answer": "Strong positive relationship",
+    "difficulty": "advanced",
+    "topic": "Statistics",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Solve for x: 3x + 7 = 22",
+    "answer": "The value of x is 5.",
+    "difficulty": "beginner",
+    "topic": "Algebra",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Calculate the simple interest on ₹5000 at 8% per annum for 3 years",
+    "answer": "The simple interest is ₹1200.",
+    "difficulty": "beginner",
+    "topic": "Simple Interest",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the square root of 1764?",
+    "answer": "The square root of 1764 is 42.",
+    "difficulty": "beginner",
+    "topic": "Arithmetic",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the roots of the equation x² - 9x + 20 = 0",
+    "answer": "The roots of the equation are 4 and 5.",
+    "difficulty": "intermediate",
+    "topic": "Quadratic Equations",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the LCM of 12 and 18?",
+    "answer": "The LCM of 12 and 18 is 36.",
+    "difficulty": "intermediate",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Convert 5/8 to percentage",
+    "answer": "5/8 is equal to 62.5%.",
+    "difficulty": "beginner",
+    "topic": "Percentages",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the area of a circle with radius 7 cm? (Use π = 22/7)",
+    "answer": "The area of the circle is 154 cm².",
+    "difficulty": "intermediate",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If 15 workers can complete a job in 10 days, how many days will 25 workers take?",
+    "answer": "25 workers can complete the job in 6 days.",
+    "difficulty": "intermediate",
+    "topic": "Time and Work",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the value of log₁₀100?",
+    "answer": "The value of log₁₀100 is 2.",
+    "difficulty": "intermediate",
+    "topic": "Logarithms",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the missing number in the series: 2, 6, 12, 20, ___",
+    "answer": "The next number in the series is 30.",
+    "difficulty": "intermediate",
+    "topic": "Number Series",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly?",
+    "answer": "We cannot conclude that some roses fade quickly based on the given information.",
+    "difficulty": "intermediate",
+    "topic": "Syllogism",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If 'PENCIL' is coded as 'RGPENK', how is 'PAPER' coded in the same scheme?",
+    "answer": "In the same coding scheme, 'PAPER' would be coded as 'RCRGT'.",
+    "difficulty": "advanced",
+    "topic": "Coding-Decoding",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Explain the meaning of the word 'ephemeral'.",
+    "answer": "The word 'ephemeral' means lasting for a very short time.",
+    "difficulty": "intermediate",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Correct the following sentence: 'She don't like apples'",
+    "answer": "The correct sentence is: 'She doesn't like apples'.",
+    "difficulty": "beginner",
+    "topic": "Grammar",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the antonym of 'benevolent'?",
+    "answer": "The antonym of 'benevolent' is 'malevolent'.",
+    "difficulty": "intermediate",
+    "topic": "Vocabulary",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Explain the difference between 'affect' and 'effect'.",
+    "answer": "'Affect' is typically used as a verb meaning to influence, while 'effect' is typically used as a noun meaning the result of an action.",
+    "difficulty": "advanced",
+    "topic": "Grammar",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
+    "answer": "The perimeter of the rectangle is 26 cm.",
+    "difficulty": "beginner",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If a train travels 300 km in 5 hours, what is its average speed?",
+    "answer": "The train's average speed is 60 km/h.",
+    "difficulty": "beginner",
+    "topic": "Speed, Distance, Time",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is 25% of 800?",
+    "answer": "25% of 800 is 200.",
+    "difficulty": "beginner",
+    "topic": "Percentages",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the value of 7! (7 factorial)",
+    "answer": "The value of 7! is 5040.",
+    "difficulty": "intermediate",
+    "topic": "Permutations",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Solve the equation: 2(x + 3) = 16",
+    "answer": "The solution to the equation is x = 5.",
+    "difficulty": "beginner",
+    "topic": "Algebra",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the sum of the first 20 natural numbers?",
+    "answer": "The sum of the first 20 natural numbers is 210.",
+    "difficulty": "intermediate",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If the ratio of boys to girls in a class is 3:2 and there are 30 students, how many girls are there?",
+    "answer": "There are 12 girls in the class.",
+    "difficulty": "intermediate",
+    "topic": "Ratios",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the cube root of 125?",
+    "answer": "The cube root of 125 is 5.",
+    "difficulty": "beginner",
+    "topic": "Arithmetic",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the area of a triangle with base 10 cm and height 8 cm",
+    "answer": "The area of the triangle is 40 cm².",
+    "difficulty": "beginner",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If 5 machines can produce 5 widgets in 5 minutes, how long would it take 100 machines to produce 100 widgets?",
+    "answer": "It would take 5 minutes for 100 machines to produce 100 widgets.",
+    "difficulty": "advanced",
+    "topic": "Time and Work",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the next prime number after 17?",
+    "answer": "The next prime number after 17 is 19.",
+    "difficulty": "beginner",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the missing number: 3, 7, 15, 31, ___",
+    "answer": "The next number in the sequence is 63.",
+    "difficulty": "intermediate",
+    "topic": "Number Series",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the probability of getting an even number when rolling a standard die?",
+    "answer": "The probability of getting an even number is 1/2.",
+    "difficulty": "intermediate",
+    "topic": "Probability",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If a shirt costs ₹1200 after a 20% discount, what was its original price?",
+    "answer": "The original price of the shirt was ₹1500.",
+    "difficulty": "intermediate",
+    "topic": "Profit and Loss",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the value of sin²θ + cos²θ?",
+    "answer": "The value of sin²θ + cos²θ is always 1.",
+    "difficulty": "intermediate",
+    "topic": "Trigonometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the average of the first 10 odd numbers",
+    "answer": "The average of the first 10 odd numbers is 10.",
+    "difficulty": "intermediate",
+    "topic": "Averages",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the smallest number by which 72 must be multiplied to make it a perfect square?",
+    "answer": "72 must be multiplied by 2 to make it a perfect square.",
+    "difficulty": "intermediate",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If 20% of a number is 50, what is the number?",
+    "answer": "The number is 250.",
+    "difficulty": "beginner",
+    "topic": "Percentages",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the sum of the interior angles of a pentagon?",
+    "answer": "The sum of the interior angles of a pentagon is 540 degrees.",
+    "difficulty": "intermediate",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the greatest common divisor (GCD) of 48 and 64",
+    "answer": "The GCD of 48 and 64 is 16.",
+    "difficulty": "intermediate",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the value of (a + b)²?",
+    "answer": "The value of (a + b)² is a² + 2ab + b².",
+    "difficulty": "beginner",
+    "topic": "Algebra",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If a car travels at 60 km/h, how far will it travel in 45 minutes?",
+    "answer": "The car will travel 45 km in 45 minutes.",
+    "difficulty": "intermediate",
+    "topic": "Speed, Distance, Time",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the volume of a cube with side length 4 cm?",
+    "answer": "The volume of the cube is 64 cm³.",
+    "difficulty": "beginner",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If 3x - y = 7 and x + 2y = 4, find the value of x",
+    "answer": "The value of x is 2.",
+    "difficulty": "intermediate",
+    "topic": "Linear Equations",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the decimal equivalent of the binary number 1010?",
+    "answer": "The decimal equivalent of binary 1010 is 10.",
+    "difficulty": "intermediate",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the compound interest on ₹10,000 at 10% per annum for 2 years",
+    "answer": "The compound interest is ₹2100.",
+    "difficulty": "intermediate",
+    "topic": "Compound Interest",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the next term in the Fibonacci sequence: 0, 1, 1, 2, 3, 5, ___?",
+    "answer": "The next term in the Fibonacci sequence is 8.",
+    "difficulty": "beginner",
+    "topic": "Number Series",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If the cost price of 20 articles is equal to the selling price of 25 articles, what is the loss percentage?",
+    "answer": "The loss percentage is 20%.",
+    "difficulty": "advanced",
+    "topic": "Profit and Loss",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the value of tan 45°?",
+    "answer": "The value of tan 45° is 1.",
+    "difficulty": "beginner",
+    "topic": "Trigonometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the median of the numbers: 12, 7, 15, 9, 13",
+    "answer": "The median of the numbers is 12.",
+    "difficulty": "intermediate",
+    "topic": "Statistics",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the remainder when 2³⁰ is divided by 5?",
+    "answer": "The remainder is 4 when 2³⁰ is divided by 5.",
+    "difficulty": "advanced",
+    "topic": "Number Theory",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If the perimeter of a square is 40 cm, what is its area?",
+    "answer": "The area of the square is 100 cm².",
+    "difficulty": "beginner",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the sum of the angles in a triangle?",
+    "answer": "The sum of the angles in a triangle is 180 degrees.",
+    "difficulty": "beginner",
+    "topic": "Geometry",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the value of 5² + 3³",
+    "answer": "The value is 25 + 27 = 52.",
+    "difficulty": "beginner",
+    "topic": "Arithmetic",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the smallest 3-digit prime number?",
+    "answer": "The smallest 3-digit prime number is 101.",
+    "difficulty": "intermediate",
+    "topic": "Number System",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If 2 pipes can fill a tank in 3 hours and 6 hours respectively, how long will it take to fill the tank if both pipes are used together?",
+    "answer": "It will take 2 hours to fill the tank when both pipes are used together.",
+    "difficulty": "intermediate",
+    "topic": "Time and Work",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the value of 0! (zero factorial)?",
+    "answer": "The value of 0! is 1.",
+    "difficulty": "intermediate",
+    "topic": "Permutations",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the mode of the numbers: 3, 5, 7, 3, 2, 5, 3, 8",
+    "answer": "The mode of the numbers is 3.",
+    "difficulty": "beginner",
+    "topic": "Statistics",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the value of 1/2 + 1/3 + 1/6?",
+    "answer": "The sum is equal to 1.",
+    "difficulty": "beginner",
+    "topic": "Fractions",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "If a number is increased by 20% and then decreased by 20%, what is the net percentage change?",
+    "answer": "The net percentage change is a decrease of 4%.",
+    "difficulty": "intermediate",
+    "topic": "Percentages",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "What is the value of 2⁵?",
+    "answer": "The value of 2⁵ is 32.",
+    "difficulty": "beginner",
+    "topic": "Exponents",
+    "goal": "CAT"
+  },
+  {
+    "type": "short_answer",
+    "question": "Find the surface area of a cube with edge length 5 cm",
+    "answer": "The surface area of the cube is 150 cm².",
+    "difficulty": "intermediate",
+    "topic": "Geometry",
+    "goal": "CAT"
+  }
+]

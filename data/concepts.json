@@ -1,0 +1,21 @@
+{
+    "synonyms": [
+        {
+            "term": "abundant",
+            "options": ["scarce", "plentiful", "rare", "limited"],
+            "answer": "plentiful"
+        },
+        {
+            "term": "benevolent",
+            "options": ["kind", "cruel", "selfish", "greedy"],
+            "answer": "kind"
+        }
+    ],
+    "antonyms": [
+        {
+            "term": "brave",
+            "options": ["cowardly", "heroic", "fearless", "valiant"],
+            "answer": "cowardly"
+        }
+    ]
+}
