@@ -38,7 +38,7 @@ export default function QuizForm({ onSubmit }) {
         value={formData.num_questions}
         onChange={handleChange}
         margin="normal"
-        inputProps={{ min: 1, max: 10 }}
+        inputProps={{ min: 5, max: 10 }}
       />
       
       <FormControl fullWidth margin="normal">
