@@ -21,7 +21,7 @@ def test_version_info():
 
 def test_generate_quiz():
     payload = {
-        "goal": "Amazon SDE",
+        "goal": "CAT",
         "num_questions": 3,
         "difficulty": "intermediate"
     }
@@ -30,7 +30,7 @@ def test_generate_quiz():
     
     data = response.json()
     assert "quiz_id" in data
-    assert data["goal"] == "Amazon SDE"
+    assert data["goal"] == "CAT"
     assert len(data["questions"]) == 3
     
     for question in data["questions"]:
@@ -42,7 +42,7 @@ def test_generate_quiz():
 
 def test_generate_with_invalid_difficulty():
     payload = {
-        "goal": "Amazon SDE",
+        "goal": "CAT",
         "num_questions": 3,
         "difficulty": "expert"  # Not in supported difficulties
     }
