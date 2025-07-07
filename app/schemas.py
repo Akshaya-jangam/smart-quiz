@@ -8,9 +8,7 @@ class Question(BaseModel):
     answer: str
     difficulty: str
     topic: str = "General"
-    goal: str
-    explanation: str = ""
-
+   
 class QuizRequest(BaseModel):
     goal: str
     num_questions: int
