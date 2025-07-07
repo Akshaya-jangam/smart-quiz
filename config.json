@@ -2,11 +2,11 @@
     "generator_mode": "hybrid",
     "version": "2.0.0",
     "default_num_questions": 5,
-    "max_questions": 20,
+    "max_questions": 10,
     "supported_difficulties": ["beginner", "intermediate", "advanced"],
     "supported_types": ["mcq", "short_answer"],
     "retrieval_weight": 0.6,
     "template_weight": 0.3,
     "model_weight": 0.1,
-    "goals": ["CAT", "GATE", "UPSC"]
+    "goals": ["CAT"]
 }

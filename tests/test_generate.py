@@ -22,7 +22,7 @@ def test_version_info():
 def test_generate_quiz():
     payload = {
         "goal": "CAT",
-        "num_questions": 3,
+        "num_questions": 5,
         "difficulty": "intermediate"
     }
     response = client.post("/generate", json=payload)
@@ -31,7 +31,7 @@ def test_generate_quiz():
     data = response.json()
     assert "quiz_id" in data
     assert data["goal"] == "CAT"
-    assert len(data["questions"]) == 3
+    assert len(data["questions"]) == 5
     
     for question in data["questions"]:
         assert question["type"] in ["mcq", "short_answer"]
@@ -43,7 +43,7 @@ def test_generate_quiz():
 def test_generate_with_invalid_difficulty():
     payload = {
         "goal": "CAT",
-        "num_questions": 3,
+        "num_questions": 5,
         "difficulty": "expert"  # Not in supported difficulties
     }
     response = client.post("/generate", json=payload)
